@@ -1,3 +1,3 @@
-## React Parcel Skeleton
+# Parcel2 React Typescript Template
 
-React-Parcel-Skeleton is a React boilerplate that uses Parcel2.  
+Parcel2-React-Typescript-Template is a React boilerplate that uses Parcel2, Typescript.

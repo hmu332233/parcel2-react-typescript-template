@@ -2,7 +2,7 @@
   "name": "react-parcel-skeleton",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/hmu332233/react-parcel-skeleton.git",
+  "repository": "https://github.com/hmu332233/parcel2-react-typescript-template.git",
   "author": "minung.han <hmu332233@gmail.com>",
   "license": "MIT",
   "scripts": {
