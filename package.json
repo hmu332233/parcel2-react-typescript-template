@@ -1,0 +1,21 @@
+{
+  "name": "react-parcel-skeleton",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hmu332233/react-parcel-skeleton.git",
+  "author": "minung.han <hmu332233@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.38",
+    "@types/react-dom": "^17.0.11",
+    "parcel": "^2.0.1"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
